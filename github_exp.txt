@@ -1,0 +1,52 @@
+
+there are two types exception
+
+1. checked exception
+
+git config --global user.email "shilpa.sp2304@gmail.com"
+
+C:\Program Files\Git\bin
+
+8-199
+
+16--249
+
+
+
+isha-1
+mridin-1
+sloka
+sohan
+sresta
+anisha
+jyosta
+pallavi-2
+brahma nanadan-2
+
+
+Git bash is different terminal like cmd
+
+git config --global user.name "ShilpaSarapu"
+
+git congif --list
+
+pwd--present working directory
+
+go to folder :git init
+
+git status
+
+git add test.txt
+(cimmites)
+
+git add. (multiple files will be adding)
+
+stage the multiple files
+
+need to commit
+
+git commit
+
+add comments
+
+Esc:wq
