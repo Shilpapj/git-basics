@@ -1,0 +1,68 @@
+Every project has 
+
+Every framework has two parts generic park and application specif part
+
+Generic part 
+Accelerator
+support
+urilities
+
+
+Application specific part--wholesale specific
+POC ( proof of concept)
+Scripts --logic 
+Data folder-- data will maintain in excel
+Results--HTML reports
+POM.xml,testng will be stored in same location
+config.proprties will have
+Release version: 10.5.5
+Environment:QA
+Gmail=URL
+browsertype=
+TestData=Data/TestData.xls
+Buildversion
+FilePath
+Runexcel
+MailTransfer
+logo
+except locators will keep any information will keep in config.properties
+Locators will be stored in java class ,or.propeties and excel
+
+Action_engine-- will have actions like open browser method
+send keys -- will have seperate method
+login method reusable functions will have actions
+
+Utilties: Excel data read and write will take care utiliy folder,date , data base
+
+seperate class--Testng--annotation 
+
+Reports folder--
+
+public voida(string locator, username, string locatorname)
+
+
+AbstractWebdriverEventListners will use the before method and before class will perform
+Selenium will also have there own listners
+
+Mylistners are specific to the slenium webdriver..
+this is basically before any method beforenavigate using these methods
+we can perform  using listner.
+
+
+
+string reverse:
+
+imp:
+
+notify or notifyall
+
+synchronization ?
+
+
+in java objects are dyn
+
+
+How will you execute failed testcase ?
+in testng in the output folder will take failed testcase and will try to execute it
+retry RetryAnalyze listner will keep the limit 3or 4.
+org.testng.IRetryAnalyzer interface
