@@ -1,4 +1,4 @@
-jithya
+shilpa
 there are two types exception
 
 1. checked exception
@@ -50,3 +50,12 @@ git commit
 add comments
 
 Esc:wq
+
+
+
+--if we updated already check in to git
+
+git commit -a -m "changes"
+
+--Merginf 
+git merge bugFix
